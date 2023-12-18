@@ -32,5 +32,9 @@ Please Use My Ryzentosh EFI at your own risk. I take no responsiblity if your ri
 ## Credits and links
 
 * [OpenCore install guide](https://dortania.github.io/OpenCore-Install-Guide)
-* [Oralira Vanilla Hackintosh](https://olarila.com)
+* [Oralira Vanilla macOS Ventura ](https://www.olarila.com/topic/6278-olarila-vanilla-images-macos-installer/)
+* [Ether Flashing Tool](https://etcher.balena.io)
+* [Free Mini Partiton Tool](https://www.partitionwizard.com/free-partition-manager.html)
+* [Explorer++](https://explorerplusplus.com/download)
 
+## Thanks!!!
