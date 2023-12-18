@@ -15,11 +15,6 @@ Please Use My Ryzentosh EFI at your own risk. I take no responsiblity if your ri
 | GPU              | AMD Radeon RX5600XT 6GB                               |
 | PS   	   | Antec VP550P          		            |
 
-
-## Not Working ( only ones I have tried, there may be more )
-
-* Microphone (Use USB Audio Card)
-
 ## Credits and links
 
 * [OpenCore install guide](https://dortania.github.io/OpenCore-Install-Guide)
