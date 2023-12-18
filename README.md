@@ -17,6 +17,18 @@ Please Use My Ryzentosh EFI at your own risk. I take no responsiblity if your ri
 | GPU              | AMD Radeon RX5600XT 6GB                               |
 | PS   	   | Antec VP550P          		            |
 
+
+## Installation Steps
+
+* Download EFI Folder + macOS Ventura Olarila Image + Etcher + Free Parition Wizard Tool + Explorer-Plus-Plus.
+* Burn macOS raw Image To USB Drive (32GB) with Etcher
+* Mount USB Driver EFI Folder Using Free Parition Wizard Tool
+* Replace EFI Folder with My EFI into EFI partition.
+* Restart PC & Boot From UEFI USB Drive (USE USB 2.0 PORT)
+* Using Disk Utility Erase The Disk (APFS)
+* Close Disk Utility & Install macOS Ventura.
+* After Install Mount Disk EFI & USB Driver EFI with MountEFI and Replace the Disk EFI Folder with The USB Drive EFI Folder. (Do Not Miss This Step Other Wise Your Hackintosh Will Not Boot Without USB Drive)
+
 ## Credits and links
 
 * [OpenCore install guide](https://dortania.github.io/OpenCore-Install-Guide)
