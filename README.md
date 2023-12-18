@@ -1,4 +1,5 @@
 # AMD Ryzen Hackintosh ( Ryzentosh )
+In this hackintosh build i use OpenCore Multiboot (Windows 11 + MacOS Ventura) with Olarila Vanila Images.
 
 ## Disclaimer
 Please Use My Ryzentosh EFI at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't use ones shown in the ny efi config.plist!!!
