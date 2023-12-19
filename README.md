@@ -1,5 +1,5 @@
 # AMD Ryzen Hackintosh ( Ryzentosh )
-A Hackintosh is a computer that runs Apple's Macintosh operating system macOS on Intel computer hardware that is not authorized for the purpose by Apple & Ryzentosh is a hackintosh computer build using AMD Ryzen Processors. In this AMD Ryzen hackintosh build i use OpenCore to multiboot Windows(11) and MacOS(Ventura) Olarila Vanila Images.
+A Hackintosh is a computer that runs Apple's Macintosh operating system macOS on Intel based computer hardware that is not authorized for the purpose by Apple & Ryzentosh is a hackintosh computer build using AMD Ryzen based computer. In this AMD Ryzen hackintosh build i use OpenCore to multiboot Windows(11) and MacOS(Ventura) Olarila Vanila Images.
 
 <img src="screenshot/1.png" alt="1.png"/><img src="screenshot/2.png" alt="2.png"/><img src="screenshot/3.png" alt="3.png"/><img src="screenshot/4.png" alt="4.png"/>
 
