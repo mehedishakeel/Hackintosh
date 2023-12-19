@@ -20,7 +20,7 @@ Please Use My Ryzentosh EFI at your own risk. I take no responsiblity if your ri
 
 ## Installation Steps
 
-* Download EFI Folder + macOS Ventura Olarila Image + Etcher + Free Parition Wizard Tool + Explorer-Plus-Plus.
+* Download EFI Folder + macOS Ventura Olarila Image + Etcher + Mini Parition Tool + Explorer-Plus-Plus.
 * Burn macOS raw Image To USB Drive (32GB) with Etcher
 * Mount USB Driver EFI Folder Using Free Parition Wizard Tool
 * Replace EFI Folder with My EFI into EFI partition.
