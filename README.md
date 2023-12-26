@@ -4,7 +4,8 @@ A Hackintosh is a computer that runs Apple's Macintosh operating system macOS on
 ## Watch Full Video About My Hackintosh on YouTube
 [![alt text](https://img.youtube.com/vi/aGJ1zKec2T8/maxresdefault.jpg)](https://youtu.be/aGJ1zKec2T8)
 
-<img src="screenshot/1.png" alt="1.png"/><img src="screenshot/2.png" alt="2.png"/><img src="screenshot/3.png" alt="3.png"/><img src="screenshot/4.png" alt="4.png"/>
+## Screenshot
+<img src="screenshot/3.png" alt="3.png"/>
 
 ## Disclaimer
 Please Use My Ryzentosh EFI at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't use ones shown in the my efi config.plist!!!
