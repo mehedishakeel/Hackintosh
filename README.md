@@ -4,7 +4,7 @@ A Hackintosh is a computer that runs Apple's Macintosh operating system macOS on
 ## Watch Full Video About My Hackintosh on YouTube
 [![alt text](https://img.youtube.com/vi/aGJ1zKec2T8/maxresdefault.jpg)](https://youtu.be/aGJ1zKec2T8)
 
-## Screenshot
+## My Mac Pro (Hackintosh) About Screenshot
 <img src="screenshot/3.png" alt="3.png"/>
 
 ## Disclaimer
