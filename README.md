@@ -14,11 +14,11 @@ Please Use My Ryzentosh EFI at your own risk. I take no responsiblity if your ri
 
 | Component        | Model                                              |
 | ---------------- | ---------------------------------------------------|
-| CPU              | AMD Ryzen 7 3700x                                   |
+| CPU              | AMD Ryzen 7 3700X                                  |
 | MotherBoard      | MSI B450 Mortar MAX                          |
-| OS Disk          | Samsung Nano evo plus 250 GB NVME SSD              |
-| RAM              | 4x 8gb Corsair Vengeance Pro 32GB Ram              |
-| GPU              | AMD Radeon RX5600XT 6GB                               |
+| OS Disk          | Samsung Nano Evo Plus 250 GB NVME SSD              |
+| RAM              | 4 X 8 GB Corsair Vengeance Pro 32GB Ram              |
+| GPU              | AMD Radeon RX 5600 XT 6GB                               |
 | PS   	   | Antec VP550P          		            |
 
 
